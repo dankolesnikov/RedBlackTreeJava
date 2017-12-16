@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RedBlackTreeJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RedBlackTreeJava_jar</output-path>
+    <root id="archive" name="RedBlackTreeJava.jar">
+      <element id="module-output" name="RedBlackTreeJava" />
+    </root>
+  </artifact>
+</component>
